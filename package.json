@@ -15,5 +15,8 @@
   "license": "gpl-2.0+",
   "devDependencies": {
     "@wordpress/scripts": "^25.5.1"
+  },
+  "dependencies": {
+    "@wordpress/element": "^5.21.0"
   }
 }

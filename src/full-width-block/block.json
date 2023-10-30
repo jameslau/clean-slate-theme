@@ -1,0 +1,12 @@
+{
+  "apiVersion": 2,
+  "name": "cleanslate/full-width-block",
+  "title": "Full Width Block",
+  "category": "text",
+  "icon": "admin-comments",
+  "description": "A native full width block",
+  "textdomain": "cleanslate",
+  "editorScript": "file:index.js",
+  "editorStyle": "file:index.css",
+  "style": "file:style-index.css"
+}
