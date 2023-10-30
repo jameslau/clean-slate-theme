@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "wp-scripts start",
+    "start": "wp-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "James Lau",
   "license": "gpl-2.0+",
   "devDependencies": {
-    "@wordpress/scripts": "^25.2.0"
+    "@wordpress/scripts": "^25.5.1"
   }
 }
