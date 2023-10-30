@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Child theme of Twenty-Three.
+Child theme of Twenty Twenty-Three.
 
 == Changelog ==
 
